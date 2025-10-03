@@ -1,6 +1,6 @@
 # Comparación de Algoritmos de Caminos Mínimos: Dijkstra vs BMSSP
 
-Este proyecto compara dos algoritmos clásicos para encontrar caminos mínimos en grafos:
+Este proyecto compara dos algoritmos para encontrar caminos mínimos en grafos:
 
 1. **Dijkstra**
 
@@ -8,7 +8,7 @@ Este proyecto compara dos algoritmos clásicos para encontrar caminos mínimos e
    * Utiliza un heap de prioridad (min-heap) para seleccionar el nodo con la menor distancia estimada en cada paso.
    * Complejidad: (O((V+E) \log V)) usando heap.
 
-2. **BMSSP (Best-First Multi-Source Shortest Paths)**
+2. **BMSSP (Bounded Multi-Source Shortest Path Algorithm)**
 
    * Variante de búsqueda de caminos mínimos basada en expansión de múltiples fuentes o heurísticas de priorización.
    * En la práctica puede comportarse similar a Dijkstra, pero el orden de exploración depende de su estrategia de “best-first”.

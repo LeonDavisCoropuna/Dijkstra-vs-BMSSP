@@ -2,6 +2,14 @@
 
 Este proyecto compara dos algoritmos para encontrar caminos mínimos en grafos:
 
+## Integrantes
+1. Davis Coropuna Leon Felipe
+2. Mogollón Cáceres Sergio Daniel
+3. Maldonado Casilla Braulio Nayap
+4. Lupo Condori Avelino
+5. Huaman Coaquira Luciana Jullisa
+
+## Algoritmos
 1. **Dijkstra**
 
    * Algoritmo clásico para grafos ponderados sin aristas negativas.

@@ -103,15 +103,19 @@ chmod +x run_test.sh
 Esto compilará `test.cpp` y ejecutará el programa, mostrando:
 
 - Ejemplo de BMSSP en grafo simple.
+  
   ![alt text](.docs/image.png)
 
 - Ejemplo de Dijkstra.
+  
   ![alt text](.docs/image2.png)
 
 - Ejemplo de BMSSP en grafo tipo cuadrícula (grid).
+ 
   ![alt text](.docs/image-1.png)
 
 - Parámetros recomendados para distintos tamaños de grafo.
+  
   ![alt text](.docs/image-2.png)
 
 ## Conclusión
